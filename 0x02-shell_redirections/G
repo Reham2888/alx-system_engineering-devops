@@ -1,0 +1,5 @@
+#!/bin/bash
+read M
+git add .
+git commit -m "$M"
+git push
